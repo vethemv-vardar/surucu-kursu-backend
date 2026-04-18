@@ -1,0 +1,80 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "slug": "trafik-bilgisi",
+      "title": "Trafik Bilgisi Temel Konular",
+      "category": "trafik",
+      "content": "Bu bölümde trafik işaretleri, şerit kullanımı, hız sınırları ve geçiş üstünlüğü gibi yazılı sınavda sık sorulan temel kavramlara odaklanılır. Adayların özellikle kavşaklarda geçiş hakkı ve trafik görevlisinin işaretlerini iyi bilmesi gerekir.",
+      "questions": [
+        {
+          "id": 101,
+          "text": "Aşağıdakilerden hangisi sürücünün hızını azaltmasını gerektiren bir durumdur?",
+          "options": [
+            "Görüş mesafesinin artması",
+            "Yolun virajlı ve kaygan olması",
+            "Trafiğin seyrek olması",
+            "Havanın açık ve güneşli olması"
+          ],
+          "correctIndex": 1,
+          "explanation": "Virajlı ve kaygan yollarda hız azaltılmalı, takip mesafesi artırılmalıdır."
+        },
+        {
+          "id": 102,
+          "text": "\"Dur\" levhasını gören sürücü ne yapmalıdır?",
+          "options": [
+            "Yavaşlayıp devam eder",
+            "Hızını artırır",
+            "Tam durur, trafiği kontrol ettikten sonra devam eder",
+            "Sadece korna çalar"
+          ],
+          "correctIndex": 2,
+          "explanation": "\"Dur\" levhası tam durmayı zorunlu kılar; yalnızca yavaşlamak yeterli değildir."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "ilk-yardim",
+      "title": "İlk Yardım Temelleri",
+      "category": "ilk-yardim",
+      "content": "İlk yardım bölümünde, kaza yerinin değerlendirilmesi, temel yaşam desteği ve kanama/şok gibi durumlara yaklaşım anlatılır. Sürücülerin profesyonel yardım gelene kadar doğru müdahaleyi yapabilmesi amaçlanır.",
+      "questions": [
+        {
+          "id": 201,
+          "text": "Aşağıdakilerden hangisi ilk yardımın temel amaçlarından biridir?",
+          "options": [
+            "Kazazedeyi hemen araçtan uzaklaştırmak",
+            "Yaşamı korumak ve durumun kötüleşmesini önlemek",
+            "Kazazedeye ilaç vermek",
+            "Kazazedeyi yürütmek"
+          ],
+          "correctIndex": 1,
+          "explanation": "İlk yardımın temel amacı yaşamı korumak, durumun kötüleşmesini önlemek ve iyileşmeyi kolaylaştırmaktır."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "motor-ve-arac-teknigi",
+      "title": "Motor ve Araç Tekniği",
+      "category": "motor",
+      "content": "Bu konuda araçta günlük kontrol edilmesi gereken yağ, su, lastik ve aydınlatma sistemleri ile temel mekanik kavramlar özetlenir. Amaç, sürücünün aracı emniyetli şekilde kullanabilmesi için gerekli asgari teknik bilgiyi sağlamaktır.",
+      "questions": [
+        {
+          "id": 301,
+          "text": "Motor yağ seviyesinin düşük olması aşağıdakilerden hangisine neden olabilir?",
+          "options": [
+            "Yakıt tüketiminin azalmasına",
+            "Motor parçalarının aşırı aşınmasına",
+            "Fren mesafesinin kısalmasına",
+            "Lastik basıncının artmasına"
+          ],
+          "correctIndex": 1,
+          "explanation": "Yetersiz yağlama motor parçalarının aşırı aşınmasına ve ciddi arızalara yol açar."
+        }
+      ]
+    }
+  ]
+}
+
